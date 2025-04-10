@@ -25,7 +25,7 @@ Write an Ether.Js Javascript  based on the examples provided at https://github.c
 Make sure to use  CotiNetwork.Testnet
 
 
-#set private number
+# set private number
 
 Given: 1. coti documentation p
 
