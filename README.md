@@ -48,4 +48,4 @@ Make sure to use  CotiNetwork.Testnet
 
 # Create UI
 
-create an HTML file that will load the private number from the contract using the information in @coti-ethers/readPrivateNumber.js use coti-ethers library defined on @coti-ethers/browser/public/coti-ethers.bundle.js
+create an HTML file that will load the private number from the contract using the information in @coti-ethers/readPrivateNumber.js use coti-ethers library defined on @coti-ethers/browser/public/coti-ethers.bundle.js. Display PK, AES key
